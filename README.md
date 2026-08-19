@@ -28,7 +28,7 @@ Equality holds strictly if and only if $x \equiv 1 \pmod m$.
 
 ---
 
-### Lemma 2: Base-$m$ Positional Representation Bound
+### Lemma 2: Base- $m$ Positional Representation Bound
 Any positive integer $x_0$ with $L$ digits in base $m$ satisfies:
 $$m^{L-1} \le x_0 < m^L \implies x_0 \le m^L - 1$$
 

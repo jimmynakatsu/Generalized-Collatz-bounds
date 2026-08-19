@@ -1,4 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jimmynakatsu/generalized-collatz-bounds/blob/main/notebooks/collatz_animations.ipynb)
 # Generalized Collatz Mappings: Bounds, Streak Invariants, and Global Drift
 
 A formal investigation into generalized $(m+k, m, m-r)$ Collatz-type dynamical systems. This repository contains the mathematical framework, formal proofs, a complete LaTeX preprint, and visualization scripts exploring finite streak ceilings and critical stopping-time thresholds.
